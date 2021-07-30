@@ -70,3 +70,8 @@ function ausgabeNamenParams2(firstName,familyName)
 }
 
 ausgabeNamenParams2("Kevin", "Clegg");
+
+output("hi");
+function output(outputStr) {
+
+}
